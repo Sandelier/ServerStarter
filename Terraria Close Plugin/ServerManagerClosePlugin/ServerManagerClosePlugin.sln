@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerManagerClosePlugin", "ServerManagerClosePlugin\ServerManagerClosePlugin.csproj", "{5686E036-0BB0-4579-A9ED-AEEA6D57BE99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5686E036-0BB0-4579-A9ED-AEEA6D57BE99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5686E036-0BB0-4579-A9ED-AEEA6D57BE99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5686E036-0BB0-4579-A9ED-AEEA6D57BE99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5686E036-0BB0-4579-A9ED-AEEA6D57BE99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A679EA79-9F0B-4E0A-88B6-2B89362EE2B4}
+	EndGlobalSection
+EndGlobal
