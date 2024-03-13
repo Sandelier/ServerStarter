@@ -5,7 +5,7 @@ ServerStarter is used to allow friends to start up servers in your pc without yo
 
 You need to open up port 54629 which is used in main.js.
 
-If the game needs an plugin and you create it make the plugin just create an http server which takes post requests and executes the command received.
+If the game needs an plugin and you create it make the plugin just create an http server which takes post requests and executes the command received. The plugins themselfs can be localhost and thats the way i do it.
 
 
 # JSON Structure for `userServers.json`

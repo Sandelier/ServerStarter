@@ -1,0 +1,3 @@
+ServerManagerClosePlugin.sln linguist-vendored
+ServerManagerClosePlugin.csproj linguist-vendored
+.NETCoreApp.Version=v6.0.AssemblyAttributes.cs
